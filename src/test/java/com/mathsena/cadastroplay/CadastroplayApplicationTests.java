@@ -1,0 +1,13 @@
+package com.mathsena.cadastroplay;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CadastroplayApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
